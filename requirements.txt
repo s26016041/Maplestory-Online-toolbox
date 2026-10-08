@@ -1,0 +1,12 @@
+# GUI
+PySide6>=6.6
+
+# 視窗列舉（找遊戲程序）
+pywin32>=306
+
+# 記憶體掃描的向量化比對
+numpy>=1.24
+
+# 只有重新產生圖示（tools/make_icon.py）才需要
+# opencv-python>=4.8
+# Pillow>=10.0

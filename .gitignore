@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 執行期產物
+captures/
+*.log
+*.pcapng
+*.etl
+*.dmp
+
+# 打包輸出
+build/
+dist/
+
+# 暫存
+scratchpad/
